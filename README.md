@@ -1,2 +1,3 @@
 # Emotion_Based_Movie_Recommendation.
 The model recommends movies based on user input text by deriving the user emotion embedded in the text.
+Developed a movie recommendation system that suggests movies based on emotions inferred from user input text. Utilized natural language processing (NLP) techniques to predict emotions from text and mapped these emotions to movie genres. Fetched top-rated movies in those genres using The Movie Database (TMDb) API. Fine-tuned a DistilBERT model for emotion classification and implemented attention visualization to highlight influential words in the input text.
